@@ -9,7 +9,7 @@ Je m'appelle Adrien anciennement cuisinier je suis actuellement en reconversion 
   
 # **Mes compétences actuelles**
 
-- Utilisation du terminal
+- Utilisation du 
 - Découverte de Git
 - Utilisation de GitHub
 - Création et modification de fichers
